@@ -28,4 +28,18 @@ Añade la siguiente clase al repositorio:
      }
  }     
  ```
+```code
+git status 
+En la rama ejercicio1-branch
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que será confirmado)
+        ejercicio1.java
+
+no hay nada agregado al commit pero hay archivos sin seguimiento presentes (usa "git add" para hacerles seguimiento)
+     git add  Ejercicio1.java 
+     git commit -m "Se incluye el Ejercicio1.java"
+[ejercicio1-branch 83ea3a1] Se incluye el Ejercicio1.java
+ 1 file changed, 5 insertions(+)
+ create mode 100644 Ejercicio1.java
+```
  
